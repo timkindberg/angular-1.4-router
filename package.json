@@ -1,0 +1,14 @@
+{
+  "name": "Egghead.io Angular 1.4 New Router Video Code Example",
+  "description": "eggheadio angular 1.4 new router",
+  "dependencies": {
+    "angular": "~1.3.14",
+    "angular-new-router": "~0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timkindberg/angular-1.4-router.git"
+  },
+  "author": "Tim Kindberg",
+  "license": "BSD"
+}
